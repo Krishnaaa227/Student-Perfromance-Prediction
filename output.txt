@@ -1,0 +1,8 @@
+ * Serving Flask app 'app'
+ * Debug mode: off
+forrtl: error (200): program aborting due to control-C event
+Image              PC                Routine            Line        Source             
+libifcoremd.dll    00007FFC15B0DF54  Unknown               Unknown  Unknown
+KERNELBASE.dll     00007FFCDE599DED  Unknown               Unknown  Unknown
+KERNEL32.DLL       00007FFCDF80E8D7  Unknown               Unknown  Unknown
+ntdll.dll          00007FFCE0FCC48C  Unknown               Unknown  Unknown
